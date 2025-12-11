@@ -1,3 +1,4 @@
+![About](https://github.com/user-attachments/assets/8bf95363-0a73-4263-81d1-4ebd5ef0de9b)
 # Unit Trust Calculator (ICT602 Assignment)
 
 This is an Android application developed for the Individual Assignment of the course ICT602: Mobile Technology and Development. The app calculates unit trust investment dividends based on user-provided inputs.
@@ -20,9 +21,10 @@ This is an Android application developed for the Individual Assignment of the co
 ![Calculation Result](path/to/your/calculation_result.png)
 
 ### About Page
-![About Page](path/to/your/about_page.png)
+![About Page](path/to/your/about.jpeg)
 
 ## Author
+![About](https://github.com/user-attachments/assets/a782c33f-08db-41d9-b2b0-505b0216fa0c)
 
 -   **Name:** Nur Damiaa Afrina Zubaidi 
 -   **Matric No:** 2023261672   
